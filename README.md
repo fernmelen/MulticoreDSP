@@ -11,6 +11,29 @@
 ### 17211539 Melendez Palafox Fernando Esaú
 ### 17211555 Ramos Cedeño Kevin Enrique
 ### Tijuana B.C. a 20 de mayo de 2020
+
+----------------------------------------------------------------------------------------------------------------------------------------
+Índice
+Planteamiento del problema
+DPS
+DSP y Microprocesador
+ADC
+Señal Analogica Y Digital
+Digitalización
+Pasos para la Digitalización de una señal digital
+MUESTREO
+CUANTIZACIÓN
+CODIFICACIÓN
+Funcionamiento DSP
+Aplicaciones del DPS
+Campos de aplicación del DPS
+Arquitectura
+Mejoras más importantes
+Portafolio de procesamiento integrado
+Programación y Herramientas de Programación
+Conclusión
+Bibliografía
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## Planteamiento del problema.
 Comenzamos explicando un poco sobre las señales por un lado tenemos el procesamiento de señales analogicas y por el otro el procesamiento de señales digitales. En todo esto hay un inconveniente y es que si nos ponemos a ver detenidamente podemos observar que puede llegar a ver distorsión a la hora de que alguna señal analogica ocupe ser procesada. Es por eso que se optó por el procesamiento digital de señales “DSP” ya que este ofrece la gran ventaja de que esta distorsión es disminuida.
@@ -54,12 +77,12 @@ Algunos ejemplos concretos de estas aplicaciones son los teléfonos móviles, lo
 - Informática: En la industria informática hay muchos dispositivos periféricos que integran microcontroladores: ratones, teclados, impresoras, escáneres, discos duros, etc.
 - Industria: En el mundo industrial se utilizan en diferentes ámbitos, como la robótica o el control de motores.
 
--
+----------------------------------------------------------------------------------------------------------------------------------------
 Software:
 https://es.wikipedia.org/wiki/Procesador_digital_de_se%C3%B1ales
 https://es.wikipedia.org/wiki/Conversi%C3%B3n_anal%C3%B3gica-digital
 http://cv.uoc.edu/annotation/8255a8c320f60c2bfd6c9f2ce11b2e7f/619469/PID_00218274/PID_00218274.html
--
+----------------------------------------------------------------------------------------------------------------------------------------
 
 ## Entorno DSP
 ![alter text](https://github.com/fernmelen/MulticoreDSP/blob/master/Imagenes%20Multicore%20DSP/Anotaci%C3%B3n%202020-05-30%20192954.jpg?raw=true)
@@ -69,7 +92,7 @@ La arquitectura interna de la DSP multinúcleo tiene 8 unidades funcionales que 
 ![alter text](https://github.com/fernmelen/MulticoreDSP/blob/master/Imagenes%20Multicore%20DSP/Anotaci%C3%B3n%202020-05-30%20193832.jpg?raw=true)
 
 http://cv.uoc.edu/annotation/8255a8c320f60c2bfd6c9f2ce11b2e7f/619469/PID_00218274/PID_00218274.html
--
+----------------------------------------------------------------------------------------------------------------------------------------
 Aplicaciones:
 http://cv.uoc.edu/annotation/8255a8c320f60c2bfd6c9f2ce11b2e7f/619469/PID_00218274/PID_00218274.html
--
+----------------------------------------------------------------------------------------------------------------------------------------
