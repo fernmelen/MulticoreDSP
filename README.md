@@ -13,26 +13,26 @@
 ### Tijuana B.C. a 20 de mayo de 2020
 
 ----------------------------------------------------------------------------------------------------------------------------------------
-Índice
-Planteamiento del problema
-DPS
-DSP y Microprocesador
-ADC
-Señal Analogica Y Digital
-Digitalización
-Pasos para la Digitalización de una señal digital
-MUESTREO
-CUANTIZACIÓN
-CODIFICACIÓN
-Funcionamiento DSP
-Aplicaciones del DPS
-Campos de aplicación del DPS
-Arquitectura
-Mejoras más importantes
-Portafolio de procesamiento integrado
-Programación y Herramientas de Programación
-Conclusión
-Bibliografía
+# Índice  
+Planteamiento del problema  
+DPS  
+DSP y Microprocesador  
+ADC  
+Señal Analogica Y Digital  
+Digitalización  
+Pasos para la Digitalización de una señal digital  
+MUESTREO  
+CUANTIZACIÓN  
+CODIFICACIÓN  
+Funcionamiento DSP  
+Aplicaciones del DPS  
+Campos de aplicación del DPS  
+Arquitectura  
+Mejoras más importantes  
+Portafolio de procesamiento integrado  
+Programación y Herramientas de Programación  
+Conclusión  
+Bibliografía  
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## Planteamiento del problema.
