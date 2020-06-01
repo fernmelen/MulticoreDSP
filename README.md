@@ -21,9 +21,9 @@ ADC
 Señal Analogica Y Digital  
 Digitalización  
 Pasos para la Digitalización de una señal digital  
-- MUESTREO  
-- CUANTIZACIÓN  
-- CODIFICACIÓN  
+- MUESTREO
+- CUANTIZACIÓN
+- CODIFICACIÓN
 Funcionamiento DSP  
 Aplicaciones del DSP  
 Campos de aplicación del DSP  
@@ -31,7 +31,7 @@ Arquitectura
 - Diseño de Arquitectura DSP
 - Entorno DSP
 Mejoras a la arquitectura DSP  
-- Mejoras más importantes  
+- Mejoras más importantes
 Portafolio de procesamiento integrado  
 Programación y Herramientas de Programación  
 Conclusión  
@@ -95,20 +95,20 @@ La conversión analógica-digital consiste en la transcripción de señales anal
 
 # Digitalización:
 La digitalización es un proceso mediante el cual, algo real (físico, tangible) es pasado a datos digitales para que pueda ser manejado por una computadora (de naturaleza, a su vez, digital), modelando, modificándolo, y aprovechándose para otros propósitos distintos de su cometido o función originales.
-Pasos para la Digitalización de una señal digital:
+Pasos para la Digitalización de una señal digital:  
 1. MUESTREO:
-Toda la tecnología digital (audio, video) está basado en la técnica de muestreo (sampling en inglés). En música, cuando una grabadora digital toma una muestra, básicamente toma una fotografía fija de la forma de onda y la convierte en bits, los cuales pueden ser almacenados y procesados. Comparado con la grabación analógica, la cual está basada en registros de voltaje como patrones de magnetización en las partículas de óxido de la cinta magnética. El muestreo digital convierte el voltaje en números (0s y 1s) los cuales pueden ser fácilmente representados y vueltos nuevamente a su forma original.
+Toda la tecnología digital (audio, video) está basado en la técnica de muestreo (sampling en inglés). En música, cuando una grabadora digital toma una muestra, básicamente toma una fotografía fija de la forma de onda y la convierte en bits, los cuales pueden ser almacenados y procesados. Comparado con la grabación analógica, la cual está basada en registros de voltaje como patrones de magnetización en las partículas de óxido de la cinta magnética. El muestreo digital convierte el voltaje en números (0s y 1s) los cuales pueden ser fácilmente representados y vueltos nuevamente a su forma original.  
 ![alter text](https://lh3.googleusercontent.com/proxy/49Ay7D7hlostZWoziBAsmLjrzbr-QLsCR9mXxlqsVk-gurlfZU3jbZfm99oHYYltkXtKfLA3r6ukbP1ekFWwshi3wgWFw2yqCZT6PYTr1QdSZVy_q0v0fP6gV1ZyWESxwcY2ZlAF) ![alter text](http://www.asifunciona.com/electronica/af_conv_ad/img_conv_ad/af_000014_12.gif)
 
 2. CUANTIZACIÓN:
 Una vez realizado el muestreo, el siguiente paso es la cuantización (quantization) de la señal analógica. Para esta parte del proceso los valores continuos de la sinusoide se convierten en series de valores numéricos decimales discretos correspondientes a los diferentes niveles o variaciones de voltajes que contiene la señal analógica original.
-Por tanto, la cuantización representa el componente de muestreo de las variaciones de valores de tensiones o voltajes tomados en diferentes puntos de la onda sinusoidal, que permite medirlos y asignarles sus correspondientes valores en el sistema numérico decimal, antes de convertir esos valores en sistema numérico binario.
+Por tanto, la cuantización representa el componente de muestreo de las variaciones de valores de tensiones o voltajes tomados en diferentes puntos de la onda sinusoidal, que permite medirlos y asignarles sus correspondientes valores en el sistema numérico decimal, antes de convertir esos valores en sistema numérico binario.  
 ![alter text](http://www.asifunciona.com/electronica/af_conv_ad/img_conv_ad/af_000014_14.gif)
 
 3. CODIFICACIÓN:
 Después de realizada la cuantización, los valores de las tomas de voltajes se representan numéricamente por medio de códigos y estándares previamente establecidos. Lo más común es codificar la señal digital en código numérico binario.
 La codificación permite asignarle valores numéricos binarios equivalentes a los valores de tensiones o< voltajes que conforman la señal eléctrica analógica original.
-En este ejemplo gráfico de codificación, es posible observar cómo se ha obtenido una señal digital y el código binario correspondiente a los niveles de voltaje 
+En este ejemplo gráfico de codificación, es posible observar cómo se ha obtenido una señal digital y el código binario correspondiente a los niveles de voltaje.  
 ![alter text](http://www.asifunciona.com/electronica/af_conv_ad/img_conv_ad/af_000014_15.gif) 
 
 |Valores en volt en Sistema Decimal|Conversión a Código Binario|
