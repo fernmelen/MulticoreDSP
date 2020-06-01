@@ -11,7 +11,7 @@
 ### 17211539 Melendez Palafox Fernando Esaú
 ### 17211555 Ramos Cedeño Kevin Enrique
 ### Tijuana B.C. a 20 de mayo de 2020
--
+=
 ## Planteamiento del problema.
 Comenzamos explicando un poco sobre las señales por un lado tenemos el procesamiento de señales analogicas y por el otro el procesamiento de señales digitales. En todo esto hay un inconveniente y es que si nos ponemos a ver detenidamente podemos observar que puede llegar a ver distorsión a la hora de que alguna señal analogica ocupe ser procesada. Es por eso que se optó por el procesamiento digital de señales “DSP” ya que este ofrece la gran ventaja de que esta distorsión es disminuida.
 
