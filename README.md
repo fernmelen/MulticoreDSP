@@ -20,18 +20,18 @@ DSP y Microprocesador
 ADC  
 Señal Analogica Y Digital  
 Digitalización  
-Pasos para la Digitalización de una señal digital  
+Pasos para la Digitalización de una señal digital
 - MUESTREO
 - CUANTIZACIÓN
-- CODIFICACIÓN
+- CODIFICACIÓN  
 Funcionamiento DSP  
 Aplicaciones del DSP  
 Campos de aplicación del DSP  
 Arquitectura
 - Diseño de Arquitectura DSP
-- Entorno DSP
+- Entorno DSP  
 Mejoras a la arquitectura DSP  
-- Mejoras más importantes
+- Mejoras más importantes  
 Portafolio de procesamiento integrado  
 Programación y Herramientas de Programación  
 Conclusión  
