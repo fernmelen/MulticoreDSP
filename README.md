@@ -204,16 +204,16 @@ DSPs unidos con procesadores de propósito general · Se busca que exista la may
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 # Programación y Herramientas de Programación
-Flujo de Compilación
+#### Flujo de Compilación
 ![alter text](https://github.com/fernmelen/MulticoreDSP/blob/master/Imagenes%20Multicore%20DSP/Anotaci%C3%B3n%202020-06-01%20021520.jpg?raw=true)
 
-SImulink + RealTime WorkShop + Embbeded Target
+#### SImulink + RealTime WorkShop + Embbeded Target
 ![alter text](https://github.com/fernmelen/MulticoreDSP/blob/master/Imagenes%20Multicore%20DSP/Anotaci%C3%B3n%202020-06-01%20021653.jpg?raw=true)
 
-Labview + DSP Module
+#### Labview + DSP Module
 ![alter text](https://github.com/fernmelen/MulticoreDSP/blob/master/Imagenes%20Multicore%20DSP/Anotaci%C3%B3n%202020-06-01%20021812.jpg?raw=true)
 
-RIDE (Visual Application Builder)
+#### RIDE (Visual Application Builder)
 ![alter text](https://github.com/fernmelen/MulticoreDSP/blob/master/Imagenes%20Multicore%20DSP/Anotaci%C3%B3n%202020-06-01%20021857.jpg?raw=true)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
